@@ -2,7 +2,8 @@
 
 This repository contains code that was used to perform the analyses in the paper:
 > Leveraging Multiple Layers of Data to Predict Drosophila Complex Traits. <br />
-> 2020. Morgante F., W. Huang, P. Sørensen, C. Maltecca and Trudy F. C. Mackay <br />
+> 2020. Morgante F., W. Huang, P. Sørensen, C. Maltecca and Trudy F. C. Mackay. <br />
+> G3(Bethesda), in press. <br />
 
 We note that this repository is not documented or explicitly designed to be released. 
 While most of the codes are specific to the computing cluster at North Carolina State Univeristy, 
